@@ -5,13 +5,16 @@ by Jeel J. Desai
 
 ## Status
 
-This project still in "Beta" and it's UI is still not final.... Currently working to convert the UI to Material You 3 based with Monet theming support. Stay Tuned.
+This project is still in beta, and the UI is not yet final. I am currently working to convert the UI to Material You 3, which is a new design language from Google that uses dynamic colors based on the user's wallpaper. Stay tuned for updates!
+
 
 <hr>
 
-FeedYOU is OPEN SOURCE app, built for my college project..... i will continue updating it with new features. 
+FeedYOU is an open-source app that I built for my college project. I will continue to update it with new features.
+
 
 Screenshots
+
 <img width="250" src="Screenshot-1.jpg"> <img width="250" src="Screenshot-2.jpg"> <img width="250" src="Screens
 <h3>Features</h3>
 <ul>
@@ -21,3 +24,4 @@ Screenshots
   <li>Ability to organize feeds by category</li>
   <li>Star/unstar and mark entries as read/unread</li>
 </ul>
+
