@@ -16,6 +16,8 @@ FeedYOU is an open-source app that I built for my college project. I will contin
 
 <li>Download - <a href="https://github.com/Jeel-Desai/feedyou/releases/download/1.0/app-release.apk">Here</a></li>
 
+<br>
+
 Screenshots
 
 <img width="250" src="Screenshot-1.jpg"> <img width="250" src="Screenshot-2.jpg"> <img width="250" src="Screenshot-3.jpg">
