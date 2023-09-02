@@ -1,7 +1,8 @@
 
 # FeedYOU
 
-by Jeel J. Desai
+Feed You is Android RSS reader created in Material style. • Read news & articles from your favourite news channels & websites • Every single newspaper in single app without any ADS. • Organize & Customize feeds and articles as your liking and get control in your hands. • Filter articles by keywords, topics, or authors. • Share articles with others via email, social media, or other channels. • Get notification when new article comes from your subscribed feeds. • Feed You can save you from limitless scrolling in social media for news and article.
+Created by Jeel J. Desai
 
 ## Status
 
