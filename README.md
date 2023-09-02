@@ -12,6 +12,9 @@ This project is still in beta, and the UI is not yet final. I am currently worki
 
 FeedYOU is an open-source app that I built for my college project. I will continue to update it with new features.
 
+<hr>
+
+<li>Download - <a href="https://github.com/Jeel-Desai/feedyou/releases/download/1.0/app-release.apk">Here</a></li>
 
 Screenshots
 
