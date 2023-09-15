@@ -1,5 +1,6 @@
 package com.jeeldesai.android.feedyou.ui.fragment
 
+import android.app.ProgressDialog.show
 import android.content.Context
 import android.content.res.Configuration.ORIENTATION_PORTRAIT
 import android.net.Uri
@@ -142,7 +143,7 @@ open class EntryListFragment : VisibleFragment(),
         })
 
         viewModel.entriesLightLiveData.observe(viewLifecycleOwner, { entries ->
-            binding.noItemsTextView.setSimpleVisibility(entries.isNullOrEmpty())
+            binding.welcomeTextView.setSimpleVisibility(entries.isNullOrEmpty())
             binding.progressBar.hide()
             adapter.submitList(entries)
             showUpdateNotice()
@@ -176,7 +177,7 @@ open class EntryListFragment : VisibleFragment(),
         } ?: run {
             // If there is no feed to load:
             binding.masterProgressBar.hide()
-            binding.noItemsTextView.show()
+            binding.welcomeTextView.show()
             restoreToolbar()
         }
     }

@@ -39,11 +39,12 @@
             app:layout_constraintTop_toBottomOf="@+id/progress_bar"/>
 
         <TextView
-            android:id="@+id/no_items_text_view"
+            android:id="@+id/welcome_text_view"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:padding="16dp"
-            android:text="@string/no_items"
+            android:paddingStart="40sp"
+            android:paddingEnd="40sp"
+            android:text="@string/welcome_screen"
             android:visibility="gone"
             android:gravity="center_horizontal"
             android:textAppearance="@style/TextAppearance.AppCompat.Menu"
