@@ -72,7 +72,7 @@ class NewEntriesWorker(
 
         return NotificationCompat.Builder(context, NOTIFICATION_CHANNEL_ID)
             .setTicker(resources.getString(com.jeeldesai.android.feedyou.R.string.new_entries_notification_title, feedTitle))
-            .setSmallIcon(com.jeeldesai.android.feedyou.R.drawable.feed_icon_small)
+            .setSmallIcon(com.jeeldesai.android.feedyou.R.drawable.ic_nicefeed_notif)
             .setContentTitle(resources.getString(com.jeeldesai.android.feedyou.R.string.new_entries_notification_title, feedTitle))
             .setStyle(NotificationCompat.BigTextStyle().bigText(text))
             .setContentText(text)

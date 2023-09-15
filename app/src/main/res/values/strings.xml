@@ -84,8 +84,6 @@
     <string name="large">Large</string>
     <string name="larger">Larger</string>
     <string name="no_items">No items found.</string>
-    <string name="welcome_user" translatable="false">Welcome to your next favourite app for News and Articles</string>
-    <string name="please_add_feeds" translatable="false" ><b>Please add feeds...</b></string>
     <string name="auto_update_on_launch">Auto-update on launch</string>
     <string name="auto_update_on_launch_description">Each feed will automatically check for updates when opened.</string>
     <string name="sort_entries_by">Sort entries by</string>
