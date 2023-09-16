@@ -21,7 +21,9 @@ FeedYOU is an open-source app that I built for my college project. I will contin
 
 Screenshots
 
-<img width="250" src="Screenshot-1.jpg"> <img width="250" src="Screenshot-2.jpg"> <img width="250" src="Screenshot-3.jpg">
+<img width="250" src="Screenshot-1.png"> <img width="250" src="Screenshot-2.png"> <img width="250" src="Screenshot-3.jpg">
+<img width="250" src="Screenshot-4.png"> <img width="250" src="Screenshot-5.png"> <img width="250" src="Screenshot-6.png">
+<img width="250" src="Screenshot-7.png">
 <h3>Features</h3>
 <ul>
   <li>RSS parsing provided by <a href="https://github.com/prof18/RSS-Parser">RSS Parser</a></li>
